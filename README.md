@@ -1,9 +1,7 @@
 <div align="center">
 
 <h2>Paloma Ribeiro</h2>
-<p>
-Quality Engineering • Test Automation • Performance • Security • Accessibility
-</p>
+<p>Quality Engineering • Test Automation • Performance • Security • Accessibility</p>
 
 </div>
 
@@ -13,7 +11,7 @@ Quality Engineering • Test Automation • Performance • Security • Accessi
 <tr>
 
 <!-- SOBRE -->
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 <h3>Sobre</h3>
 
@@ -22,41 +20,41 @@ Atuando em Quality Engineering, com pós-graduação em Engenharia de Software e
 </p>
 
 <p>
-Atuação voltada à validação de aplicações Web, mobile e APIs, com foco em confiabilidade, performance e mitigação de riscos em produção.
+Atuação em projetos acadêmicos e profissionais com foco em automação de testes, validação de APIs e qualidade de software orientada a risco.
 </p>
 
 <ul>
-<li>Automação de testes (UI e API)</li>
+<li>Automação de testes (UI + API)</li>
 <li>Testes de performance (K6)</li>
-<li>Validação de segurança </li>
-<li>Acessibilidade </li>
-<li>Testes orientados a risco</li>
+<li>Testes de segurança (OWASP)</li>
+<li>Acessibilidade (WCAG)</li>
+<li>Qualidade orientada a métricas</li>
 </ul>
 
-<p>Recife – PE</p>
+<p>📍 Recife – PE</p>
 
 </td>
 
-<!-- LATERAL -->
-<td width="40%" valign="top">
+<!-- TECNOLOGIAS + FERRAMENTAS -->
+<td width="45%" valign="top">
 
-<h3>Tecnologias</h3>
+<h3>Tecnologias & Ferramentas</h3>
 
 <img src="https://skillicons.dev/icons?i=java,js,python,selenium,cypress" />
 
 <br><br>
 
-<h3>Certificações</h3>
+<img src="https://skillicons.dev/icons?i=postman,git,github" />
 
-<p><b>ISTQB CTFL</b></p>
+<br><br>
 
-<p style="font-size:13px; color:#666;">
-Quality Testing Foundation
-</p>
+<p><b>Ferramentas de Qualidade</b></p>
 
-<p style="font-size:13px;">
-Automação • APIs • Performance • Segurança
-</p>
+<ul>
+<li>Jira • Xray • TestLink</li>
+<li>Trello • Postman</li>
+<li>Playwright • Selenium</li>
+</ul>
 
 </td>
 
@@ -65,6 +63,20 @@ Automação • APIs • Performance • Segurança
 
 <hr>
 
+<!-- CERTIFICAÇÕES -->
+<div align="center">
+
+<h3>Certificações</h3>
+
+<img src="https://bstqb.online/img/cert/ctfl.svg" width="140"/>
+
+<p><b>ISTQB CTFL – Certified Tester Foundation Level</b></p>
+
+</div>
+
+<hr>
+
+<!-- CONTATO -->
 <div align="center">
 
 <a href="https://www.linkedin.com">
@@ -78,4 +90,3 @@ Automação • APIs • Performance • Segurança
 </a>
 
 </div>
-``
