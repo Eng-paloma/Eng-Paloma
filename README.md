@@ -7,73 +7,65 @@
 
 ---
 
-## Sobre
+<div align="center">
 
-Engenheira de Qualidade com foco em automação e estratégia de testes, atuando em validação de aplicações Web e APIs com abordagem orientada a risco, confiabilidade e impacto no negócio.
+<table>
+<tr>
+<td width="50%">
 
-- Testes automatizados (UI + API)
-- Performance testing e análise de comportamento sob carga
-- Segurança aplicada em testes (OWASP, validações automatizadas)
-- Acessibilidade (WCAG) e experiência do usuário
-- Qualidade orientada a dados e evidência
+### Sobre
 
----
+Engenharia de qualidade orientada a risco, com foco em confiabilidade, performance e segurança de aplicações web e APIs.
 
-## Tecnologias & Ferramentas
+- Automação de testes (UI + API)
+- Performance testing (K6)
+- Security testing (validações automatizadas)
+- Acessibilidade (WCAG + axe-core)
+- Qualidade orientada a evidência e métricas
+
+</td>
+
+<td width="50%">
+
+### Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,playwright,selenium,git,github,docker,linux" />
+https://skillicons.dev/icons?i=js,ts,nodejs,java,playwright,selenium,git,github,docker,linux
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Foco em Engenharia de Qualidade
-
-- Automação de testes escalável (Playwright, API)
-- Estratégia de testes baseada em risco
-- Testes de performance (K6)
-- Testes de segurança (baseline + validação automatizada)
-- Integração com CI/CD
-- Observabilidade e análise de métricas
-
----
-
-## Projetos
-
-- qa-acessibilidade-tests → validação WCAG (automação + axe-core)
-- qa-performance-tests → testes de carga, stress, spike e soak
-- qa-security-tests → validação de segurança em APIs e aplicações web
-
----
-
-## Métricas
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-paloma&show_icons=true&theme=tokyonight" />
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-paloma&layout=compact&theme=tokyonight" />
+### Projetos
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-paloma&theme=tokyonight" />
+- **qa-acessibilidade-tests**  
+  Validação WCAG com automação (Playwright + axe-core)
 
-</div>
+- **qa-performance-tests**  
+  Testes de carga, stress, spike e soak com K6
 
----
+- **qa-security-tests**  
+  Validação de segurança (APIs + OWASP baseline)
 
-## Contato
+</td>
 
-- LinkedIn: https://www.linkedin.com/
-- Email: newspalho@gmail.com
+<td width="50%">
 
----
+### Foco Técnico
 
-<div align="center">
-
-Qualidade de software não é validação final.  
-É engenharia aplicada desde o início do processo.
-
-</div>
-
+- Estratégia de testes baseada em risco  
+- Testes de performance e resiliência  
 
