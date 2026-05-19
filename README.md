@@ -40,25 +40,6 @@ Atuação em projetos acadêmicos e profissionais com foco em automação de tes
 
 <h3>Tecnologias & Ferramentas</h3>
 
-<img src="https://skillicons.dev/icons?i=java,js,python,selenium,cypress" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postman,git,github" />
-
-<br><br>
-<br>
-
-https://skillicons.dev/icons?i=java,js,python,selenium,cypress
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,js,python,selenium,cypress" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=postman,playwright,git,github" />
-
-
-
 <br><br>
 
 <img src="https://img.icons8.com/color/48/jira.png"/>
