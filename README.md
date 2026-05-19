@@ -58,10 +58,8 @@ Foco em construir qualidade de forma contínua, com base em evidência e métric
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" />
-<br>
-<img src="https://skillicons.dev/icons?i=playwright,selenium,git,github" />
-<br>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" /><br>
+<img src="https://skillicons.dev/icons?i=playwright,selenium,git,github" /><br>
 <img src="https://skillicons.dev/icons?i=docker,linux" />
 
 </div>
@@ -96,23 +94,5 @@ Foco em construir qualidade de forma contínua, com base em evidência e métric
 <div align="center">
 
 <a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<br><br>
-
-<a href="mailto:newspalho@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-Qualidade não é etapa final.  
-É engenharia aplicada continuamente ao produto.
-
-</div>
 
