@@ -1,94 +1,84 @@
 <div align="center">
 
-# Paloma Ribeiro  
-### Quality Engineering | Test Automation | Performance | Security
+# Olá, eu sou Paloma Ribeiro
+
+Quality Engineering | Test Automation | Performance | Security
 
 </div>
 
 ---
 
-<div align="center">
-
 <table>
 <tr>
 <td width="50%">
 
-### Sobre
+## Sobre mim
 
-Engenharia de qualidade orientada a risco, com foco em confiabilidade, performance e segurança de aplicações web e APIs.
+Engenheira de Qualidade com foco em automação, confiabilidade e comportamento em produção.
 
-- Automação de testes (UI + API)
-- Performance testing (K6)
-- Security testing (OWASP + validações automatizadas)
+- Testes automatizados (UI + API)
+- Performance testing com K6
+- Security testing (OWASP + validação)
 - Acessibilidade (WCAG + axe-core)
-- Qualidade orientada a evidência e métricas
+- Qualidade orientada a métricas
 
 </td>
 
 <td width="50%">
 
-### Tecnologias
+## Tecnologias & Ferramentas
 
-<div align="center">
-
-https://skillicons.dev/icons?i=js,ts,nodejs,java,playwright,selenium,git,github,docker,linux
-
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,playwright,selenium,git,github,docker,linux" />
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-### Projetos
+## Certificações
 
-- **qa-acessibilidade-tests**  
-  Validação WCAG com automação (Playwright + axe-core)
-
-- **qa-performance-tests**  
-  Testes de carga, stress, spike e soak com K6
-
-- **qa-security-tests**  
-  Validação de segurança (APIs + OWASP baseline)
+<img src="https://img.shields.io/badge/Quality%20Engineering-Professional-2F80ED?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Test%20Automation-Playwright-27AE60?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/API%20Testing-REST-6C5CE7?style=for-the-badge"/>
 
 </td>
 
 <td width="50%">
 
-### Foco Técnico
+## Especialidades
 
-- Estratégia de testes baseada em risco  
-- Testes de performance e resiliência  
-- Validação de segurança automatizada  
-- Integração com CI/CD  
-- Observabilidade e métricas  
+- Automação de testes escalável  
+- Testes de performance e carga  
+- Validação de segurança  
+- Estratégia baseada em risco  
+- Integração com pipelines CI/CD  
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## Métricas
+## Estatísticas
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=Eng-paloma&show_icons=true&theme=tokyonight
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-paloma&show_icons=true&theme=tokyonight" />
 
-https://github-readme-streak-stats.herokuapp.com/?user=Eng-paloma&theme=tokyonight
+<br>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-paloma&layout=compact&theme=tokyonight
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-paloma&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-paloma&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -98,12 +88,23 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-paloma&layout
 
 <div align="center">
 
-LinkedIn: https://www.linkedin.com  
-Email: newspalho@gmail.com  
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:palomahor@hotmail.com">
+<img src="https://img.shields.io/badge/Email-2F80ED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
+
+<div align="center">
+
+Qualidade não é etapa final — é engenharia contínua.
+
+</div>
 
 <div align="center">
 
