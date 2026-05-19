@@ -47,15 +47,22 @@ Atuação em projetos acadêmicos e profissionais com foco em automação de tes
 <img src="https://skillicons.dev/icons?i=postman,git,github" />
 
 <br><br>
+<br>
 
-<p><b>Ferramentas de Qualidade</b></p>
+https://skillicons.dev/icons?i=java,js,python,selenium,cypress
 
-<ul>
-<li>Jira • Xray • TestLink</li>
-<li>Trello • Postman</li>
-<li>Playwright • Selenium</li>
-</ul>
+<br><br>
 
+https://skillicons.dev/icons?i=postman,playwright,git,github
+
+<br><br>
+
+<img src="https://img.icons8.com/color/48/jira.png"/>
+<img src="https://img.icons8.com/color/48/trello.png"/>
+<img src="https://img.icons8.com/color/48/selenium-test-automation.png"/>
+<img src="https://img.icons8.com/fluency/48/api.png" title="TestLink / API"/>
+<img src="https://img.icons8.com/color/48/test-passed.png" title="Xray"/>
+``
 </td>
 
 </tr>
