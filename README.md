@@ -10,22 +10,44 @@
 <table width="100%">
 <tr>
 
+<!-- CERTIFICAÇÕES -->
 <td width="25%" valign="top">
 
 <h4>Certificações</h4>
 
-<img src="https://img.shields.io/badge/ISTQB%20CTFL-Certified%20Tester%20Foundation-1E3A8A?style=for-the-badge" /><br><br>
+<p>
+<span style="background:#1e3a8a;color:white;padding:5px 10px;border-radius:8px;font-size:12px;">
+ISTQB CTFL
+</span>
+</p>
 
-<img src="https://img.shields.io/badge/Test%20Automation-Playwright-0F9D58?style=for-the-badge" /><br><br>
+<p>
+<span style="background:#14532d;color:white;padding:5px 10px;border-radius:8px;font-size:12px;">
+Test Automation
+</span>
+</p>
 
-<img src="https://img.shields.io/badge/API%20Testing-REST-6C5CE7?style=for-the-badge" /><br><br>
+<p>
+<span style="background:#4c1d95;color:white;padding:5px 10px;border-radius:8px;font-size:12px;">
+API Testing
+</span>
+</p>
 
-<img src="https://img.shields.io/badge/Performance-K6-FF6B00?style=for-the-badge" /><br><br>
+<p>
+<span style="background:#b45309;color:white;padding:5px 10px;border-radius:8px;font-size:12px;">
+Performance (K6)
+</span>
+</p>
 
-<img src="https://img.shields.io/badge/Security-OWASP-000000?style=for-the-badge" />
+<p>
+<span style="background:#111827;color:white;padding:5px 10px;border-radius:8px;font-size:12px;">
+Security (OWASP)
+</span>
+</p>
 
 </td>
 
+<!-- SOBRE -->
 <td width="50%" valign="top">
 
 <h4>Sobre mim</h4>
@@ -48,13 +70,16 @@ Foco em construir qualidade de forma contínua, com base em evidência e métric
 
 </td>
 
+<!-- TECNOLOGIAS -->
 <td width="25%" valign="top">
 
 <h4>Tecnologias</h4>
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" /><br>
-<img src="https://skillicons.dev/icons?i=playwright,selenium,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=docker,linux" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" /><br>
+  <img src="https://skillicons.dev/icons?i=playwright,selenium,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,linux" />
+</div>
 
 </td>
 
@@ -63,32 +88,18 @@ Foco em construir qualidade de forma contínua, com base em evidência e métric
 
 <hr>
 
-<h4 align="center">Métricas</h4>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-paloma&show_icons=true&theme=tokyonight" /><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-paloma&theme=tokyonight" /><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-paloma&layout=compact&theme=tokyonight" />
-
-</div>
-
-<hr>
-
 <h4 align="center">Contato</h4>
 
 <div align="center">
 
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
-<a href="mailto:newspalho@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:palomahor@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -96,6 +107,5 @@ Foco em construir qualidade de forma contínua, com base em evidência e métric
 <hr>
 
 <div align="center">
-
-
 </div>
+``
