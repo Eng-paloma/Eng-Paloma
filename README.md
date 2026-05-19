@@ -1,6 +1,6 @@
 <div align="center">
 
-# Paloma Ribeiro
+# Paloma Ribeiro  
 Quality Engineering | Test Automation | Performance | Security | Accessibility
 
 </div>
@@ -14,7 +14,7 @@ Quality Engineering | Test Automation | Performance | Security | Accessibility
 
 ## Certificações
 
-<img src="https://img.shields.io/badge/ISTQB%20CTFL-Certified%20Tester-1E3A8A?style=for-the-badge&logo=testing-library&logoColor=white" />
+<img src="https://img.shields.io/badge/ISTQB%20CTFL-Certified%20Tester%20Foundation%20Level-1E3A8A?style=for-the-badge" />
 
 <br><br>
 
@@ -38,15 +38,15 @@ Quality Engineering | Test Automation | Performance | Security | Accessibility
 
 ## Sobre mim
 
-Caçadora de bugs e automatizadora de software, com foco em confiabilidade, risco e comportamento em produção.
+Engenharia de qualidade aplicada ao desenvolvimento de software, com foco em confiabilidade, performance e comportamento em produção.
 
 Atuação prática em:
 
-- Automação de testes (UI + API)
-- Performance testing (K6)
-- Testes de segurança (validação automatizada)
-- Acessibilidade (WCAG + axe-core)
-- Estratégia de testes orientada a risco
+- Automação de testes (UI + API)  
+- Performance testing (K6)  
+- Validação de segurança (OWASP + automação)  
+- Acessibilidade (WCAG + axe-core)  
+- Estratégia de testes orientada a risco  
 
 Foco em construir qualidade de forma contínua, com base em evidência e métricas.
 
@@ -58,8 +58,10 @@ Foco em construir qualidade de forma contínua, com base em evidência e métric
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" /><br>
-<img src="https://skillicons.dev/icons?i=playwright,selenium,git,github" /><br>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" />
+<br>
+<img src="https://skillicons.dev/icons?i=playwright,selenium,git,github" />
+<br>
 <img src="https://skillicons.dev/icons?i=docker,linux" />
 
 </div>
@@ -93,17 +95,24 @@ Foco em construir qualidade de forma contínua, com base em evidência e métric
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
 
 <a href="mailto:newspalho@gmail.com">
-<img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
+
+<div align="center">
+
+Qualidade não é etapa final.  
+É engenharia aplicada continuamente ao produto.
+
+</div>
 
