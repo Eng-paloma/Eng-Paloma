@@ -1,8 +1,21 @@
+<!-- HEADER -->
+<div align="center">
+  <h1>✨ Olá, eu sou Paloma Ribeiro</h1>
+  <p>
+    💻 Quality Engineer | Test Automation | Performance | Security | Accessibility
+  </p>
+</div>
 
+---
 
+## 👩‍💻 Sobre mim
 
+- 🎯 Engenheira de Qualidade com foco em automação e estratégia de testes  
+- ⚡ Atuação com Playwright, API Testing, Performance e Segurança  
+- 🧠 Mentalidade orientada a risco, confiabilidade e impacto no negócio  
+- 🚀 Construção de soluções de teste escaláveis e voltadas à experiência do usuário  
 
-
+---
 
 ## ⚙️ Tecnologias & Ferramentas
 
@@ -12,10 +25,11 @@
 
 ---
 
-## 📊 Estatísticas
+## 🎓 Especialidades
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-paloma&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-paloma&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-paloma&layout=compact&theme=tokyonight"/>
-</div>
+- ✅ Testes Automatizados (UI + API)  
+- ✅ Performance Testing (K6)  
+- ✅ Security Testing (OWASP ZAP + automação)  
+- ✅ Acessibilidade (WCAG + axe-core)  
+- ✅ Testes orientados a risco  
+
