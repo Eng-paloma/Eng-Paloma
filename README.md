@@ -33,15 +33,15 @@ https://skillicons.dev/icons?i=js,ts,nodejs,java,playwright,selenium,git,github,
 
 <div align="center">
 
-https://img.shields.io/badge/ISTQB%20CTFL-Certified%20Tester%20Foundation%20Level-1E3A8A?style=for-the-badge
+[![CTFL](https://img.shields.io/badge/ISTQB%20CTFL-Certified%20Tester%20Foundation%20Level-1E3A8A?style=for-the-badge)]()
 
-https://img.shields.io/badge/Test%20Automation-Playwright-0F9D58?style=for-the-badge
+[![Playwright](https://img.shields.io/badge/Test%20Automation-Playwright-0F9D58?style=for-the-badge)]()
 
-https://img.shields.io/badge/API%20Testing-REST-6C5CE7?style=for-the-badge
+[![API](https://img.shields.io/badge/API%20Testing-REST-6C5CE7?style=for-the-badge)]()
 
-https://img.shields.io/badge/Performance-K6-FF6B00?style=for-the-badge
+[![K6](https://img.shields.io/badge/Performance-K6-FF6B00?style=for-the-badge)]()
 
-https://img.shields.io/badge/Security-OWASP-000000?style=for-the-badge
+[![OWASP](https://img.shields.io/badge/Security-OWASP-000000?style=for-the-badge)]()
 
 </div>
 
@@ -75,7 +75,5 @@ https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoCol
 
 <div align="center">
 
-Qualidade não é etapa final.  
-É engenharia contínua.
 
 </div>
