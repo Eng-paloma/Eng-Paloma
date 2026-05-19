@@ -38,23 +38,39 @@ Atuo com foco em confiabilidade, desempenho e comportamento em produção, desen
 
 <h4>Tecnologias & Ferramentas</h4>
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" /><br>
-<img src="https://skillicons.dev/icons?i=playwright,selenium,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=docker,linux" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java&perline=4">
+<br>
+<img src="https://skillicons.dev/icons?i=playwright,selenium,git,github&perline=4">
+<br>
+<img src="https://skillicons.dev/icons?i=java,js,selenium,cypress,python&perline=5">
 
 <br><br>
 
 <h4>Certificações</h4>
 
-<img src="https://img.shields.io/badge/ISTQB%20CTFL-Certified%20Tester-1E3A8A?style=for-the-badge" /><br><br>
+<p>
+<img src="https://img.shields.io/badge/ISTQB%20CTFL-Quality%20Testing-1E3A8at-square
+</p>
 
-<img src="https://img.shields.io/badge/Test%20Automation-Playwright-0F9D58?style=for-the-badge" /><br><br>
+<p>
+/badge/Test%20Automation-Playwright-2E7D32?style=flat-square">
+</p>
 
-<img src="https://img.shields.io/badge/API%20Testing-REST-6C5CE7?style=for-the-badge" /><br><br>
+<p>
+<img src="https://img.shields.io/badge/API%20Testing-Postman%20%2F%20REST-512DA8?style=flat-square">
+</p>
 
-<img src="https://img.shields.io/badge/Performance-K6-FF6B00?style=for-the-badge" /><br><br>
+<p>
+<img src="https://img.shields.io/badge/Performance-K6%20Testing-E65100?style=flat-square">
+</p>
 
-<img src="https://img.shields.io/badge/Security-OWASP-000000?style=for-the-badge" />
+<p>
+<img src="https://img.shields.io/badge/Security-OWASP%20Testing-212121?style=flat-square">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Automation-Selenium%20%2F%20Appium-1565C0?style=flat-square">
+</p>
 
 </td>
 
