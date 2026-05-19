@@ -38,13 +38,13 @@ Quality Engineering | Test Automation | Performance | Security | Accessibility
 
 ## Sobre mim
 
-Engenharia de qualidade aplicada ao desenvolvimento de software, com foco em confiabilidade, risco e comportamento em produção.
+Caçadora de bugs e automatizadora de software, com foco em confiabilidade, risco e comportamento em produção.
 
 Atuação prática em:
 
 - Automação de testes (UI + API)
 - Performance testing (K6)
-- Testes de segurança (OWASP + validação automatizada)
+- Testes de segurança (validação automatizada)
 - Acessibilidade (WCAG + axe-core)
 - Estratégia de testes orientada a risco
 
