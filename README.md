@@ -1,8 +1,7 @@
 <div align="center">
 
-# Olá, eu sou Paloma Ribeiro
-
-Quality Engineering | Test Automation | Performance | Security
+# Paloma Ribeiro
+Quality Engineering | Test Automation | Performance | Security | Accessibility
 
 </div>
 
@@ -10,63 +9,69 @@ Quality Engineering | Test Automation | Performance | Security
 
 <table>
 <tr>
+
+<td width="25%">
+
+## Certificações
+
+<img src="https://img.shields.io/badge/ISTQB%20CTFL-Certified%20Tester-1E3A8A?style=for-the-badge&logo=testing-library&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Test%20Automation-Playwright-0F9D58?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/API%20Testing-REST-6C5CE7?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Performance-K6-FF6B00?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Security-OWASP-000000?style=for-the-badge" />
+
+</td>
+
 <td width="50%">
 
 ## Sobre mim
 
-Engenheira de Qualidade com foco em automação, confiabilidade e comportamento em produção.
+Engenharia de qualidade aplicada ao desenvolvimento de software, com foco em confiabilidade, risco e comportamento em produção.
 
-- Testes automatizados (UI + API)
-- Performance testing com K6
-- Security testing (OWASP + validação)
+Atuação prática em:
+
+- Automação de testes (UI + API)
+- Performance testing (K6)
+- Testes de segurança (OWASP + validação automatizada)
 - Acessibilidade (WCAG + axe-core)
-- Qualidade orientada a métricas
+- Estratégia de testes orientada a risco
+
+Foco em construir qualidade de forma contínua, com base em evidência e métricas.
 
 </td>
 
-<td width="50%">
+<td width="25%">
 
-## Tecnologias & Ferramentas
+## Tecnologias
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,playwright,selenium,git,github,docker,linux" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java" /><br>
+<img src="https://skillicons.dev/icons?i=playwright,selenium,git,github" /><br>
+<img src="https://skillicons.dev/icons?i=docker,linux" />
+
+</div>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
-## Certificações
-
-<img src="https://img.shields.io/badge/Quality%20Engineering-Professional-2F80ED?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/Test%20Automation-Playwright-27AE60?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/API%20Testing-REST-6C5CE7?style=for-the-badge"/>
-
-</td>
-
-<td width="50%">
-
-## Especialidades
-
-- Automação de testes escalável  
-- Testes de performance e carga  
-- Validação de segurança  
-- Estratégia baseada em risco  
-- Integração com pipelines CI/CD  
-
-</td>
-</tr>
-</table>
-
----
-
-## Estatísticas
+## Métricas
 
 <div align="center">
 
@@ -89,11 +94,13 @@ Engenheira de Qualidade com foco em automação, confiabilidade e comportamento 
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:palomahor@hotmail.com">
-<img src="https://img.shields.io/badge/Email-2F80ED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br><br>
+
+<a href="mailto:newspalho@gmail.com">
+<img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -102,14 +109,7 @@ Engenheira de Qualidade com foco em automação, confiabilidade e comportamento 
 
 <div align="center">
 
-Qualidade não é etapa final — é engenharia contínua.
+Qualidade não é etapa final.  
+É engenharia aplicada continuamente ao produto.
 
 </div>
-
-<div align="center">
-
-Qualidade não é validação final.  
-É solução aplicada.
-
-</div>
-
