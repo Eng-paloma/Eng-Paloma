@@ -18,18 +18,18 @@ Quality Engineering • Test Automation • Performance • Security • Accessi
 <h3>Sobre</h3>
 
 <p>
-Engenheira de Qualidade formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Engenharia de Software com foco em Qualidade.
+Engenheira de Qualidade pós-graduada em Engenharia de Software com foco em Qualidade.
 </p>
 
 <p>
-Atuação voltada à validação de aplicações Web e APIs, com foco em confiabilidade, performance e mitigação de riscos em produção.
+Atuação voltada à validação de aplicações Web, mobile e APIs, com foco em confiabilidade, performance e mitigação de riscos em produção.
 </p>
 
 <ul>
 <li>Automação de testes (UI e API)</li>
 <li>Testes de performance (K6)</li>
-<li>Validação de segurança (OWASP)</li>
-<li>Acessibilidade (WCAG)</li>
+<li>Validação de segurança </li>
+<li>Acessibilidade </li>
 <li>Testes orientados a risco</li>
 </ul>
 
