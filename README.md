@@ -18,7 +18,7 @@ Quality Engineering • Test Automation • Performance • Security • Accessi
 <h3>Sobre</h3>
 
 <p>
-Engenheira de Qualidade pós-graduada em Engenharia de Software com foco em Qualidade.
+Atuando em Quality Engineering, com pós-graduação em Engenharia de Software e foco na construção de software confiável e bem estruturado.
 </p>
 
 <p>
