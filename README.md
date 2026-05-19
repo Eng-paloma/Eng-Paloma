@@ -53,7 +53,11 @@ https://skillicons.dev/icons?i=java,js,python,selenium,cypress
 
 <br><br>
 
-https://skillicons.dev/icons?i=postman,playwright,git,github
+<img src="https://skillicons.dev/icons?i=java,js,python,selenium,cypress" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=postman,playwright,git,github" />
+
+
 
 <br><br>
 
