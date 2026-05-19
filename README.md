@@ -1,29 +1,29 @@
 <p>
-Engenheira de Qualidade com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Engenharia de Software com ênfase em Qualidade.
+Graduada em Análise e Desenvolvimento de Sistemas e pós-graduada em Engenharia de Software com foco em Qualidade.
 </p>
 
 <p>
-Atuo na validação de aplicações Web e APIs com foco em confiabilidade, desempenho e comportamento em produção, aplicando estratégias modernas de Quality Engineering.
+Atuo com Quality Engineering em aplicações Web e APIs, focando em confiabilidade, performance e mitigação de riscos em produção.
 </p>
 
 <ul>
 <li>Automação de testes (UI e API)</li>
 <li>Testes de performance e análise de carga (K6)</li>
 <li>Validação de segurança (OWASP)</li>
-<li>Acessibilidade (WCAG e axe-core)</li>
-<li>Qualidade orientada a risco e métricas</li>
+<li>Acessibilidade (WCAG e boas práticas)</li>
+<li>Estratégia de testes orientada a risco</li>
 </ul>
 
 <p>Recife - PE</p>
 
 <h4>Certificações</h4>
 
-<p><b>ISTQB CTFL</b></p>
+<p><b>ISTQB CTFL — Certified Tester Foundation Level</b></p>
 
-<ul style="padding-left: 16px;">
-<li>Test Automation</li>
-<li>API Testing (REST / Postman)</li>
-<li>Performance Testing (K6)</li>
-<li>Security Testing (OWASP)</li>
-<li>Selenium e Appium</li>
+<ul>
+<li>Automação de testes (Playwright, Selenium, Appium)</li>
+<li>Testes de API (REST / Postman)</li>
+<li>Testes de performance (K6)</li>
+<li>Testes de segurança (OWASP)</li>
 </ul>
+``
