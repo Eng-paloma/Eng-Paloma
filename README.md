@@ -107,9 +107,3 @@ Foco em construir qualidade de forma contínua, com base em evidência e métric
 
 ---
 
-<div align="center">
-
-Qualidade não é etapa final.  
-É engenharia aplicada continuamente ao produto.
-
-</div>
