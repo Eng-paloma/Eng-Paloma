@@ -31,7 +31,7 @@ Atuação em projetos acadêmicos e profissionais com foco em automação de tes
 <li>Qualidade orientada a métricas</li>
 </ul>
 
-<p>📍 Recife – PE</p>
+         <p>📍 Recife – PE</p>
 
 </td>
 
