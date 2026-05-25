@@ -84,10 +84,8 @@ Git
 
 <p><b>ISTQB CTFL – Certified Tester Foundation Level</b></p>
 
+<p><i>Certificação internacional voltada a fundamentos de testes de software, cobrindo técnicas, estratégias e boas práticas de qualidade.</i></p>
+
 </div>
 
 <hr>
-
-
-
-</div>
