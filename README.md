@@ -16,11 +16,12 @@
 <h3>Sobre</h3>
 
 <p>
+<p>
 Atuando em Quality Engineering, com pós-graduação em Engenharia de Software e foco na construção de aplicações robustas, seguras e confiáveis.
 </p>
 
 <p>
-Experiência em automação de testes, validação de APIs e qualidade orientada a risco, com atuação em projetos acadêmicos e profissionais.
+Experiência em automação de testes E2E e API, validação de serviços, e qualidade orientada a risco, com aplicação prática em segurança, performance e acessibilidade.
 </p>
 
 <ul>
@@ -30,6 +31,7 @@ Experiência em automação de testes, validação de APIs e qualidade orientada
 <li>Acessibilidade (WCAG)</li>
 <li>Qualidade orientada a métricas</li>
 </ul>
+
 
 📍 Recife – PE
 
