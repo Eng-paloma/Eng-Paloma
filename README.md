@@ -88,17 +88,6 @@ Git
 
 <hr>
 
-<!-- CONTATO -->
-<div align="center">
 
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:palomahor@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-1E3A8A?style=flat&logo=gmail&logoColor=white">
-</a>
 
 </div>
