@@ -80,11 +80,25 @@ Git
 
 <h3>Certificações</h3>
 
-<img src="https://bstqb.online/img/cert/ctfl.svg" width="140"/>
+<table>
+<tr>
 
-<p><b>ISTQB CTFL – Certified Tester Foundation Level</b></p>
+<td align="center">
+<img src="https://bstqb.online/img/cert/ctfl.svg" width="140"/><br>
+<b>ISTQB CTFL</b><br>
+<sub>Certified Tester Foundation Level</sub>
+</td>
 
-<p><i>Certificação internacional voltada a fundamentos de testes de software, cobrindo técnicas, estratégias e boas práticas de qualidade.</i></p>
+<td width="40"></td>
+
+<td align="center">
+<img src="https://isqi.org/media/0c/ea/aa/1740383941/CT_TAE_new.png" width="140"/><br>
+<b>ISTQB CTAL TAE</b><br>
+<sub>Test Automation Engineering</sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
