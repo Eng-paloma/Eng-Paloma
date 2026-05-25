@@ -16,11 +16,11 @@
 <h3>Sobre</h3>
 
 <p>
-Atuando em Quality Engineering, com pós-graduação em Engenharia de Software e foco na construção de software confiável e bem estruturado.
+Atuando em Quality Engineering, com pós-graduação em Engenharia de Software e foco na construção de aplicações robustas, seguras e confiáveis.
 </p>
 
 <p>
-Atuação em projetos acadêmicos e profissionais com foco em automação de testes, validação de APIs e qualidade de software orientada a risco.
+Experiência em automação de testes, validação de APIs e qualidade orientada a risco, com atuação em cenários reais e projetos profissionais.
 </p>
 
 <ul>
@@ -31,23 +31,39 @@ Atuação em projetos acadêmicos e profissionais com foco em automação de tes
 <li>Qualidade orientada a métricas</li>
 </ul>
 
-        📍 Recife – PE
+📍 Recife – PE
 
 </td>
 
-<!-- TECNOLOGIAS + FERRAMENTAS -->
+<!-- TECNOLOGIAS -->
 <td width="45%" valign="top">
 
 <h3>Tecnologias & Ferramentas</h3>
 
-<br><br>
+<p><b>Gestão e Qualidade</b><br>
+Jira • Xray • Confluence • TestLink • Trello
+</p>
 
-<img src="https://img.icons8.com/color/48/jira.png"/>
-<img src="https://img.icons8.com/color/48/trello.png"/>
-<img src="https://img.icons8.com/color/48/selenium-test-automation.png"/>
-<img src="https://img.icons8.com/fluency/48/api.png" title="TestLink / API"/>
-<img src="https://img.icons8.com/color/48/test-passed.png" title="Xray"/>
-``
+<p><b>Testes de API</b><br>
+Postman • Bruno • Insomnia
+</p>
+
+<p><b>Automação</b><br>
+Playwright (E2E)
+</p>
+
+<p><b>Plataformas</b><br>
+AEM • WEM • OpenText
+</p>
+
+<p><b>Mobile & Dados</b><br>
+Mobile Center • TDM
+</p>
+
+<p><b>Versionamento</b><br>
+Git
+</p>
+
 </td>
 
 </tr>
@@ -82,3 +98,4 @@ Atuação em projetos acadêmicos e profissionais com foco em automação de tes
 </a>
 
 </div>
+
