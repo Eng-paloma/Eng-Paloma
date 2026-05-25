@@ -20,7 +20,7 @@ Atuando em Quality Engineering, com pós-graduação em Engenharia de Software e
 </p>
 
 <p>
-Experiência em automação de testes, validação de APIs e qualidade orientada a risco, com atuação em cenários reais e projetos profissionais.
+Experiência em automação de testes, validação de APIs e qualidade orientada a risco, com atuação em projetos acadêmicos e profissionais.
 </p>
 
 <ul>
@@ -40,20 +40,24 @@ Experiência em automação de testes, validação de APIs e qualidade orientada
 
 <h3>Tecnologias & Ferramentas</h3>
 
-<p><b>Gestão e Qualidade</b><br>
-Jira • Xray • Confluence • TestLink • Trello
+<p><b>Linguagens</b><br>
+JavaScript • TypeScript • JAVA • Phyton
+</p>
+
+<p><b>Automação de Testes</b><br>
+Playwright (E2E • API • Security Testing) • Selenium
 </p>
 
 <p><b>Testes de API</b><br>
 Postman • Bruno • Insomnia
 </p>
 
-<p><b>Automação</b><br>
-Playwright (E2E)
+<p><b>Gestão e Qualidade</b><br>
+Jira • Xray • Confluence • TestLink • Trello
 </p>
 
 <p><b>Plataformas</b><br>
-AEM • WEM • OpenText
+AEM (Adobe Experience Manager) • WEM • OpenText
 </p>
 
 <p><b>Mobile & Dados</b><br>
@@ -98,4 +102,3 @@ Git
 </a>
 
 </div>
-
